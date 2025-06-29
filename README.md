@@ -1,6 +1,24 @@
 # TEP-assignment-3
 16-PSK modulation assignment
 
+---------------------------------------------------------------------------------------------------------------------------
+Task:
+You are given the following 16-PSK modulation parameters:
+• The bitstream to be transmitted is 1010110011011101 (16 bits).
+• The carrier frequency 𝑓𝑐
+is 1 MHz.
+• The symbol rate 𝑅𝑠
+is 1 kHz.
+By using MATLAB:
+1. Generate the bitstream and group it into 4-bit symbols for 16-PSK modulation.
+2. Map the 4-bit symbols to phase angles (0° to 360°) corresponding to the 16 distinct
+phases in 16-PSK.
+3. Generate the modulated signal for transmission using the carrier frequency and
+the phase shifts.
+4. Show the truth table and plot the constellation diagram to visualize the 16-PSK
+modulation.
+----------------------------------------------------------------------------------------------------------------------------
+
 
 The outptut is shown as:
 ![image alt](https://github.com/bubbleman0000/TEP-assignment-3/blob/main/image/output%20waveform.png?raw=true)
