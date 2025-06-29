@@ -19,3 +19,6 @@ And the following graphs show the zoomed in version of the modulated signal at t
 ![image alt](https://github.com/bubbleman0000/TEP-assignment-3/blob/main/image/t=4ms.png?raw=true)
 
 And the demodulated signal waveform should looks like this:
+![image alt](https://github.com/bubbleman0000/TEP-assignment-3/blob/main/image/demodulated%20wave.png?raw=true)
+
+The constellation diagram and truth table:
