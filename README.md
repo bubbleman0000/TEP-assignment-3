@@ -22,3 +22,4 @@ And the demodulated signal waveform should looks like this:
 ![image alt](https://github.com/bubbleman0000/TEP-assignment-3/blob/main/image/demodulated%20wave.png?raw=true)
 
 The constellation diagram and truth table:
+![image alt](https://github.com/bubbleman0000/TEP-assignment-3/blob/main/image/constellation%20table.png?raw=true)
