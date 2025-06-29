@@ -10,3 +10,6 @@ the following code. which the target time is represent the target time unit we t
 ![image alt](https://github.com/bubbleman0000/TEP-assignment-3/blob/main/image/code.png?raw=true)
 
 The following graph shows the zoomed in version of carrier signal:
+![image alt](https://github.com/bubbleman0000/TEP-assignment-3/blob/main/image/carrier%20signal.png?raw=true)
+
+And the following graphs show the zoomed in version of the modulated signal at time=1ms, 2ms, 3ms and 4ms.
